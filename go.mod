@@ -9,5 +9,5 @@ require (
 	github.com/p9c/chaincfg v0.0.4
 	github.com/p9c/chainhash v0.0.2
 	github.com/p9c/logi v0.0.13
-	github.com/p9c/wire v0.0.3
+	github.com/p9c/wire v0.0.4
 )
