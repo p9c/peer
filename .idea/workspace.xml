@@ -40,6 +40,10 @@
     <proxy>direct</proxy>
   </component>
   <component name="WindowStateProjectService">
+    <state x="1649" y="758" width="564" height="629" key="FileChooserDialogImpl" timestamp="1583974276841">
+      <screen x="48" y="48" width="3792" height="2112" />
+    </state>
+    <state x="1649" y="758" width="564" height="629" key="FileChooserDialogImpl/48.48.3792.2112@48.48.3792.2112" timestamp="1583974276841" />
     <state x="1445" y="671" width="971" height="838" key="find.popup" timestamp="1583971985648">
       <screen x="48" y="48" width="3792" height="2112" />
     </state>
