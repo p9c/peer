@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2c839ed9-7efc-4ea9-9957-e270c1e4edc3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="2c839ed9-7efc-4ea9-9957-e270c1e4edc3" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,10 +37,10 @@
     <proxy>direct</proxy>
   </component>
   <component name="WindowStateProjectService">
-    <state x="1649" y="496" width="564" height="1154" key="FileChooserDialogImpl" timestamp="1583984971306">
+    <state x="1649" y="478" width="564" height="1189" key="FileChooserDialogImpl" timestamp="1583985557567">
       <screen x="48" y="48" width="3792" height="2112" />
     </state>
-    <state x="1649" y="496" width="564" height="1154" key="FileChooserDialogImpl/48.48.3792.2112@48.48.3792.2112" timestamp="1583984971306" />
+    <state x="1649" y="478" width="564" height="1189" key="FileChooserDialogImpl/48.48.3792.2112@48.48.3792.2112" timestamp="1583985557567" />
     <state x="1445" y="671" width="971" height="838" key="find.popup" timestamp="1583971985648">
       <screen x="48" y="48" width="3792" height="2112" />
     </state>
